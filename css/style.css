@@ -1,0 +1,9 @@
+.container {
+    background-image: url(../img/360_F_319826758_Y0ZcnSFB9Y3ODfbcn6JbthebcB9jcQr0.jpg);
+    background-size: cover;
+    aspect-ratio: 2;
+}
+
+.tb-text {
+    padding-top: 220px;
+}

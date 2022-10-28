@@ -1,7 +1,8 @@
 const inputKm = prompt ("Inserire il numero di Km Da percorrere");
 
 if (isNaN(inputKm)) {
-    alert("il valore inserito non è valido")
+    alert("il valore inserito non è valido");
+
 }
 
 const inputAge = prompt ("inserire l'età del passeggero");
