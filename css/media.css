@@ -1,0 +1,19 @@
+
+@media screen and (min-width: 486px) {
+    .tb-text {
+        padding-top: 75px;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .tb-text {
+        padding-top: 150px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .tb-text {
+        padding-top: 200px;
+    }
+}
